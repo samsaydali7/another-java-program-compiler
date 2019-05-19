@@ -1,0 +1,2 @@
+Class-Path: lib/antlr.jar
+Main-Class: Main.Main
